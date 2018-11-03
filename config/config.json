@@ -1,0 +1,7 @@
+{
+  "username":"abcd",
+  "password":"abcd",
+  "host":"localhost",
+  "dbName":"login",
+  "secret":"secret"
+}
